@@ -1,0 +1,1 @@
+Hi, this is a keylogger. It sends client's keystrokes to the server.
